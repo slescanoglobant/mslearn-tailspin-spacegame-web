@@ -7,7 +7,7 @@ pool:
     - npm
 
 variables:
-  buildConfiguration: 'Release'
+  buildConfiguration: 'Release-seba-picante'
   wwwrootDir: 'Tailspin.SpaceGame.Web/wwwroot'
   dotnetSdkVersion: '3.1.300'
 
